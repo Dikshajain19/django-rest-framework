@@ -1,0 +1,5 @@
+django==6.0
+djangorestframework
+pyyaml
+requests
+django-cord-header
